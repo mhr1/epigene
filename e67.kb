@@ -1,0 +1,970 @@
+
+
+location(yal069w, 335).
+chromosome(yal069w, chrI).
+is_next_to(yal069w, nothing).
+class(yal069w, go:0008372).
+class(yal069w, go:0005554).
+class(yal069w, go:0000004).
+
+location(yal068w-a, 538).
+chromosome(yal068w-a, chrI).
+is_next_to(yal068w-a, yal069w).
+class(yal068w-a, go:0008372).
+class(yal068w-a, go:0005554).
+class(yal068w-a, go:0000004).
+
+location(yal068c, 1807).
+chromosome(yal068c, chrI).
+is_next_to(yal068c, yal068w-a).
+class(yal068c, go:0008372).
+class(yal068c, go:0005554).
+class(yal068c, go:0000004).
+
+location(yal067w-a, 2480).
+chromosome(yal067w-a, chrI).
+is_next_to(yal067w-a, yal068c).
+class(yal067w-a, go:0008372).
+class(yal067w-a, go:0005554).
+class(yal067w-a, go:0000004).
+
+location(yal067c, 7236).
+chromosome(yal067c, chrI).
+is_next_to(yal067c, yal067w-a).
+class(yal067c, go:0016020).
+class(yal067c, go:0006810).
+class(yal067c, go:0005215).
+
+location(yal066w, 10092).
+chromosome(yal066w, chrI).
+is_next_to(yal066w, yal067c).
+class(yal066w, go:0008372).
+class(yal066w, go:0005554).
+class(yal066w, go:0000004).
+
+location(yal065c, 11566).
+chromosome(yal065c, chrI).
+is_next_to(yal065c, yal066w).
+class(yal065c, go:0008372).
+class(yal065c, go:0005554).
+class(yal065c, go:0000004).
+
+location(yal064w-b, 12047).
+chromosome(yal064w-b, chrI).
+is_next_to(yal064w-b, yal065c).
+class(yal064w-b, go:0008372).
+class(yal064w-b, go:0005554).
+class(yal064w-b, go:0000004).
+
+location(yal064c-a, 13364).
+chromosome(yal064c-a, chrI).
+is_next_to(yal064c-a, yal064w-b).
+class(yal064c-a, go:0008372).
+class(yal064c-a, go:0005554).
+class(yal064c-a, go:0000004).
+
+location(yal064w, 21526).
+chromosome(yal064w, chrI).
+is_next_to(yal064w, yal064c-a).
+class(yal064w, go:0008372).
+class(yal064w, go:0005554).
+class(yal064w, go:0000004).
+
+location(yal063c-a, 22397).
+chromosome(yal063c-a, chrI).
+is_next_to(yal063c-a, yal064w).
+class(yal063c-a, go:0008372).
+class(yal063c-a, go:0005554).
+class(yal063c-a, go:0000004).
+
+location(yal063c, 24001).
+chromosome(yal063c, chrI).
+is_next_to(yal063c, yal063c-a).
+class(yal063c, go:0009277).
+class(yal063c, go:0005537).
+class(yal063c, go:0000501).
+
+location(yal062w, 31568).
+chromosome(yal062w, chrI).
+is_next_to(yal062w, yal063c).
+class(yal062w, go:0005739).
+class(yal062w, go:0006537).
+class(yal062w, go:0005634).
+class(yal062w, go:0005625).
+class(yal062w, go:0004352).
+
+location(yal061w, 33449).
+chromosome(yal061w, chrI).
+is_next_to(yal061w, yal062w).
+class(yal061w, go:0016616).
+class(yal061w, go:0005737).
+class(yal061w, go:0005634).
+class(yal061w, go:0000004).
+
+location(yal060w, 35156).
+chromosome(yal060w, chrI).
+is_next_to(yal060w, yal061w).
+class(yal060w, go:0019650).
+class(yal060w, go:0005737).
+class(yal060w, go:0000721).
+
+location(yal059c-a, 36497).
+chromosome(yal059c-a, chrI).
+is_next_to(yal059c-a, yal060w).
+class(yal059c-a, go:0008372).
+class(yal059c-a, go:0005554).
+class(yal059c-a, go:0000004).
+
+location(yal059w, 36510).
+chromosome(yal059w, chrI).
+is_next_to(yal059w, yal059c-a).
+class(yal059w, go:0000055).
+class(yal059w, go:0007047).
+class(yal059w, go:0005730).
+class(yal059w, go:0005654).
+class(yal059w, go:0005634).
+class(yal059w, go:0005554).
+
+location(yal058w, 37465).
+chromosome(yal058w, chrI).
+is_next_to(yal058w, yal059w).
+class(yal058w, go:0006457).
+class(yal058w, go:0030176).
+class(yal058w, go:0051082).
+class(yal058w, go:0030433).
+
+location(yal056c-a, 38697).
+chromosome(yal056c-a, chrI).
+is_next_to(yal056c-a, yal058w).
+class(yal056c-a, go:0008372).
+class(yal056c-a, go:0005554).
+class(yal056c-a, go:0000004).
+
+location(yal056w, 39260).
+chromosome(yal056w, chrI).
+is_next_to(yal056w, yal056c-a).
+class(yal056w, go:0005739).
+class(yal056w, go:0007165).
+class(yal056w, go:0005886).
+class(yal056w, go:0005737).
+class(yal056w, go:0004871).
+class(yal056w, go:0000723).
+
+location(yal055w, 42178).
+chromosome(yal055w, chrI).
+is_next_to(yal055w, yal056w).
+class(yal055w, go:0006625).
+class(yal055w, go:0005777).
+class(yal055w, go:0005554).
+
+location(yal054c, 42882).
+chromosome(yal054c, chrI).
+is_next_to(yal054c, yal055w).
+class(yal054c, go:0019654).
+class(yal054c, go:0005739).
+class(yal054c, go:0006085).
+class(yal054c, go:0005829).
+class(yal054c, go:0003987).
+
+location(yal053w, 45900).
+chromosome(yal053w, chrI).
+is_next_to(yal053w, yal054c).
+class(yal053w, go:0005737).
+class(yal053w, go:0005554).
+class(yal053w, go:0000004).
+
+location(yal051w, 48565).
+chromosome(yal051w, chrI).
+is_next_to(yal051w, yal053w).
+class(yal051w, go:0006631).
+class(yal051w, go:0016563).
+class(yal051w, go:0003677).
+class(yal051w, go:0045941).
+class(yal051w, go:0007031).
+class(yal051w, go:0005634).
+
+location(yal049c, 51856).
+chromosome(yal049c, chrI).
+is_next_to(yal049c, yal051w).
+class(yal049c, go:0005737).
+class(yal049c, go:0005554).
+class(yal049c, go:0000004).
+
+location(yal048c, 52802).
+chromosome(yal048c, chrI).
+is_next_to(yal048c, yal049c).
+class(yal048c, go:0016192).
+class(yal048c, go:0005741).
+class(yal048c, go:0003924).
+
+location(yal047w-a, 54585).
+chromosome(yal047w-a, chrI).
+is_next_to(yal047w-a, yal048c).
+class(yal047w-a, go:0008372).
+class(yal047w-a, go:0005554).
+class(yal047w-a, go:0000004).
+
+location(yal047c, 54990).
+chromosome(yal047c, chrI).
+is_next_to(yal047c, yal047w-a).
+class(yal047c, go:0000070).
+class(yal047c, go:0030473).
+class(yal047c, go:0007020).
+class(yal047c, go:0005824).
+class(yal047c, go:0005200).
+class(yal047c, go:0000022).
+
+location(yal046c, 57030).
+chromosome(yal046c, chrI).
+is_next_to(yal046c, yal047c).
+class(yal046c, go:0008372).
+class(yal046c, go:0005554).
+class(yal046c, go:0000004).
+
+location(yal045c, 57489).
+chromosome(yal045c, chrI).
+is_next_to(yal045c, yal046c).
+class(yal045c, go:0008372).
+class(yal045c, go:0005554).
+class(yal045c, go:0000004).
+
+location(yal044w-a, 57519).
+chromosome(yal044w-a, chrI).
+is_next_to(yal044w-a, yal045c).
+class(yal044w-a, go:0008372).
+class(yal044w-a, go:0005554).
+class(yal044w-a, go:0000004).
+
+location(yal044c, 57951).
+chromosome(yal044c, chrI).
+is_next_to(yal044c, yal044w-a).
+class(yal044c, go:0006730).
+class(yal044c, go:0006546).
+class(yal044c, go:0005960).
+class(yal044c, go:0005739).
+class(yal044c, go:0004375).
+class(yal044c, go:0000723).
+
+location(yal043c, 58696).
+chromosome(yal043c, chrI).
+is_next_to(yal043c, yal044c).
+class(yal043c, go:0030847).
+class(yal043c, go:0030846).
+class(yal043c, go:0008033).
+class(yal043c, go:0006379).
+class(yal043c, go:0006378).
+class(yal043c, go:0005849).
+class(yal043c, go:0005847).
+class(yal043c, go:0003723).
+
+location(yal042c-a, 61232).
+chromosome(yal042c-a, chrI).
+is_next_to(yal042c-a, yal043c).
+class(yal042c-a, go:0008372).
+class(yal042c-a, go:0005554).
+class(yal042c-a, go:0000004).
+
+location(yal042w, 61317).
+chromosome(yal042w, chrI).
+is_next_to(yal042w, yal042c-a).
+class(yal042w, go:0030176).
+class(yal042w, go:0030173).
+class(yal042w, go:0030134).
+class(yal042w, go:0006888).
+class(yal042w, go:0005554).
+
+location(yal041w, 62841).
+chromosome(yal041w, chrI).
+is_next_to(yal041w, yal042w).
+class(yal041w, go:0043332).
+class(yal041w, go:0030468).
+class(yal041w, go:0000753).
+class(yal041w, go:0000750).
+class(yal041w, go:0007264).
+class(yal041w, go:0007124).
+class(yal041w, go:0007119).
+class(yal041w, go:0007118).
+class(yal041w, go:0007096).
+class(yal041w, go:0006033).
+class(yal041w, go:0005935).
+class(yal041w, go:0005634).
+class(yal041w, go:0005089).
+class(yal041w, go:0004871).
+class(yal041w, go:0001403).
+class(yal041w, go:0000131).
+
+location(yal040c, 65779).
+chromosome(yal040c, chrI).
+is_next_to(yal040c, yal041w).
+class(yal040c, go:0016538).
+class(yal040c, go:0042144).
+class(yal040c, go:0007033).
+class(yal040c, go:0005634).
+class(yal040c, go:0000082).
+class(yal040c, go:0000079).
+
+location(yal039c, 68717).
+chromosome(yal039c, chrI).
+is_next_to(yal039c, yal040c).
+class(yal039c, go:0005758).
+class(yal039c, go:0018063).
+class(yal039c, go:0004408).
+
+location(yal038w, 71787).
+chromosome(yal038w, chrI).
+is_next_to(yal038w, yal039c).
+class(yal038w, go:0006096).
+class(yal038w, go:0006090).
+class(yal038w, go:0005829).
+class(yal038w, go:0004743).
+
+location(yal037c-b, 72327).
+chromosome(yal037c-b, chrI).
+is_next_to(yal037c-b, yal038w).
+class(yal037c-b, go:0008372).
+class(yal037c-b, go:0005554).
+class(yal037c-b, go:0000004).
+
+location(yal037c-a, 73427).
+chromosome(yal037c-a, chrI).
+is_next_to(yal037c-a, yal037c-b).
+class(yal037c-a, go:0008372).
+class(yal037c-a, go:0005554).
+class(yal037c-a, go:0000004).
+
+location(yal037w, 74021).
+chromosome(yal037w, chrI).
+is_next_to(yal037w, yal037c-a).
+class(yal037w, go:0008372).
+class(yal037w, go:0005554).
+class(yal037w, go:0000004).
+
+location(yal036c, 75044).
+chromosome(yal036c, chrI).
+is_next_to(yal036c, yal037w).
+class(yal036c, go:0005737).
+class(yal036c, go:0005525).
+class(yal036c, go:0000004).
+
+location(yal035w, 76428).
+chromosome(yal035w, chrI).
+is_next_to(yal035w, yal036c).
+class(yal035w, go:0006413).
+class(yal035w, go:0005843).
+class(yal035w, go:0005739).
+class(yal035w, go:0003924).
+class(yal035w, go:0003743).
+
+location(yal034c-b, 79490).
+chromosome(yal034c-b, chrI).
+is_next_to(yal034c-b, yal035w).
+class(yal034c-b, go:0008372).
+class(yal034c-b, go:0005554).
+class(yal034c-b, go:0000004).
+
+location(yal034w-a, 79719).
+chromosome(yal034w-a, chrI).
+is_next_to(yal034w-a, yal034c-b).
+class(yal034w-a, go:0007059).
+class(yal034w-a, go:0005554).
+class(yal034w-a, go:0000922).
+class(yal034w-a, go:0000818).
+
+location(yal034c, 80711).
+chromosome(yal034c, chrI).
+is_next_to(yal034c, yal034w-a).
+class(yal034c, go:0008372).
+class(yal034c, go:0005554).
+class(yal034c, go:0000004).
+
+location(yal033w, 82707).
+chromosome(yal033w, chrI).
+is_next_to(yal033w, yal034c).
+class(yal033w, go:0008033).
+class(yal033w, go:0006364).
+class(yal033w, go:0005655).
+class(yal033w, go:0004526).
+class(yal033w, go:0000172).
+class(yal033w, go:0000171).
+
+location(yal032c, 83336).
+chromosome(yal032c, chrI).
+is_next_to(yal032c, yal033w).
+class(yal032c, go:0016563).
+class(yal032c, go:0045944).
+class(yal032c, go:0005634).
+
+location(yal031w-a, 84670).
+chromosome(yal031w-a, chrI).
+is_next_to(yal031w-a, yal032c).
+class(yal031w-a, go:0008372).
+class(yal031w-a, go:0005554).
+class(yal031w-a, go:0000004).
+
+location(yal031c, 84750).
+chromosome(yal031c, chrI).
+is_next_to(yal031c, yal031w-a).
+class(yal031c, go:0005737).
+class(yal031c, go:0005554).
+class(yal031c, go:0000004).
+
+location(yal030w, 87287).
+chromosome(yal030w, chrI).
+is_next_to(yal030w, yal031c).
+class(yal030w, go:0006897).
+class(yal030w, go:0006893).
+class(yal030w, go:0030133).
+class(yal030w, go:0006906).
+class(yal030w, go:0005485).
+
+location(yal029c, 87856).
+chromosome(yal029c, chrI).
+is_next_to(yal029c, yal030w).
+class(yal029c, go:0000146).
+class(yal029c, go:0048309).
+class(yal029c, go:0005739).
+class(yal029c, go:0030478).
+class(yal029c, go:0008298).
+
+location(yal028w, 92901).
+chromosome(yal028w, chrI).
+is_next_to(yal028w, yal029c).
+class(yal028w, go:0006950).
+class(yal028w, go:0005783).
+class(yal028w, go:0005554).
+
+location(yal027w, 94688).
+chromosome(yal027w, chrI).
+is_next_to(yal027w, yal028w).
+class(yal027w, go:0005634).
+class(yal027w, go:0005554).
+class(yal027w, go:0000004).
+
+location(yal026c-a, 95387).
+chromosome(yal026c-a, chrI).
+is_next_to(yal026c-a, yal027w).
+class(yal026c-a, go:0008372).
+class(yal026c-a, go:0005554).
+class(yal026c-a, go:0000004).
+
+location(yal026c, 95631).
+chromosome(yal026c, chrI).
+is_next_to(yal026c, yal026c-a).
+class(yal026c, go:0006897).
+class(yal026c, go:0006892).
+class(yal026c, go:0030140).
+class(yal026c, go:0016887).
+class(yal026c, go:0045332).
+class(yal026c, go:0030490).
+class(yal026c, go:0006886).
+class(yal026c, go:0005886).
+class(yal026c, go:0005802).
+class(yal026c, go:0004012).
+class(yal026c, go:0000139).
+
+location(yal025c, 100226).
+chromosome(yal025c, chrI).
+is_next_to(yal025c, yal026c).
+class(yal025c, go:0005730).
+class(yal025c, go:0042273).
+class(yal025c, go:0005554).
+
+location(yal024c, 101566).
+chromosome(yal024c, chrI).
+is_next_to(yal024c, yal025c).
+class(yal024c, go:0031578).
+class(yal024c, go:0007096).
+class(yal024c, go:0005933).
+class(yal024c, go:0005085).
+
+location(yal023c, 106273).
+chromosome(yal023c, chrI).
+is_next_to(yal023c, yal024c).
+class(yal023c, go:0006493).
+class(yal023c, go:0005783).
+class(yal023c, go:0004169).
+
+location(yal022c, 108878).
+chromosome(yal022c, chrI).
+is_next_to(yal022c, yal023c).
+class(yal022c, go:0016020).
+class(yal022c, go:0015858).
+class(yal022c, go:0005622).
+class(yal022c, go:0005337).
+
+location(yal021c, 110847).
+chromosome(yal021c, chrI).
+is_next_to(yal021c, yal022c).
+class(yal021c, go:0016593).
+class(yal021c, go:0030015).
+class(yal021c, go:0007089).
+class(yal021c, go:0006357).
+class(yal021c, go:0005737).
+class(yal021c, go:0000289).
+class(yal021c, go:0000288).
+class(yal021c, go:0000175).
+
+location(yal020c, 113615).
+chromosome(yal020c, chrI).
+is_next_to(yal020c, yal021c).
+class(yal020c, go:0007117).
+class(yal020c, go:0007017).
+class(yal020c, go:0005737).
+class(yal020c, go:0005554).
+class(yal020c, go:0000226).
+
+location(yal019w-a, 114251).
+chromosome(yal019w-a, chrI).
+is_next_to(yal019w-a, yal020c).
+class(yal019w-a, go:0008372).
+class(yal019w-a, go:0005554).
+class(yal019w-a, go:0000004).
+
+location(yal019w, 114920).
+chromosome(yal019w, chrI).
+is_next_to(yal019w, yal019w-a).
+class(yal019w, go:0005739).
+class(yal019w, go:0007001).
+class(yal019w, go:0005634).
+class(yal019w, go:0005554).
+
+location(yal018c, 118565).
+chromosome(yal018c, chrI).
+is_next_to(yal018c, yal019w).
+class(yal018c, go:0008372).
+class(yal018c, go:0005554).
+class(yal018c, go:0000004).
+
+location(yal017w, 120226).
+chromosome(yal017w, chrI).
+is_next_to(yal017w, yal018c).
+class(yal017w, go:0006468).
+class(yal017w, go:0005737).
+class(yal017w, go:0019318).
+class(yal017w, go:0004674).
+
+location(yal016c-b, 124308).
+chromosome(yal016c-b, chrI).
+is_next_to(yal016c-b, yal017w).
+class(yal016c-b, go:0008372).
+class(yal016c-b, go:0005554).
+class(yal016c-b, go:0000004).
+
+location(yal016c-a, 124756).
+chromosome(yal016c-a, chrI).
+is_next_to(yal016c-a, yal016c-b).
+class(yal016c-a, go:0008372).
+class(yal016c-a, go:0005554).
+class(yal016c-a, go:0000004).
+
+location(yal016w, 124880).
+chromosome(yal016w, chrI).
+is_next_to(yal016w, yal016c-a).
+class(yal016w, go:0000159).
+class(yal016w, go:0000158).
+class(yal016w, go:0043332).
+class(yal016w, go:0005737).
+class(yal016w, go:0007117).
+class(yal016w, go:0007094).
+class(yal016w, go:0007015).
+class(yal016w, go:0006470).
+class(yal016w, go:0006412).
+class(yal016w, go:0005935).
+class(yal016w, go:0005934).
+class(yal016w, go:0005816).
+class(yal016w, go:0005634).
+
+location(yal015c, 126904).
+chromosome(yal015c, chrI).
+is_next_to(yal015c, yal016w).
+class(yal015c, go:0006285).
+class(yal015c, go:0008534).
+class(yal015c, go:0006284).
+class(yal015c, go:0006281).
+class(yal015c, go:0005739).
+class(yal015c, go:0005634).
+class(yal015c, go:0003906).
+class(yal015c, go:0000703).
+
+location(yal014c, 128253).
+chromosome(yal014c, chrI).
+is_next_to(yal014c, yal015c).
+class(yal014c, go:0006810).
+class(yal014c, go:0005768).
+class(yal014c, go:0005484).
+
+location(yal013w, 129271).
+chromosome(yal013w, chrI).
+is_next_to(yal013w, yal014c).
+class(yal013w, go:0006644).
+class(yal013w, go:0030528).
+class(yal013w, go:0006357).
+class(yal013w, go:0005634).
+class(yal013w, go:0000723).
+
+location(yal012w, 130802).
+chromosome(yal012w, chrI).
+is_next_to(yal012w, yal013w).
+class(yal012w, go:0019346).
+class(yal012w, go:0005737).
+class(yal012w, go:0006534).
+class(yal012w, go:0004123).
+class(yal012w, go:0000096).
+
+location(yal011w, 132202).
+chromosome(yal011w, chrI).
+is_next_to(yal011w, yal012w).
+class(yal011w, go:0007029).
+class(yal011w, go:0006338).
+class(yal011w, go:0005739).
+class(yal011w, go:0005634).
+class(yal011w, go:0005554).
+class(yal011w, go:0000812).
+
+location(yal010c, 134186).
+chromosome(yal010c, chrI).
+is_next_to(yal010c, yal011w).
+class(yal010c, go:0006461).
+class(yal010c, go:0007005).
+class(yal010c, go:0005741).
+class(yal010c, go:0005554).
+class(yal010c, go:0001401).
+class(yal010c, go:0000002).
+class(yal010c, go:0000001).
+
+location(yal009w, 135856).
+chromosome(yal009w, chrI).
+is_next_to(yal009w, yal010c).
+class(yal009w, go:0006997).
+class(yal009w, go:0016021).
+class(yal009w, go:0030437).
+class(yal009w, go:0042175).
+class(yal009w, go:0007126).
+class(yal009w, go:0005554).
+
+location(yal008w, 136916).
+chromosome(yal008w, chrI).
+is_next_to(yal008w, yal009w).
+class(yal008w, go:0005741).
+class(yal008w, go:0005739).
+class(yal008w, go:0005554).
+class(yal008w, go:0000004).
+
+location(yal007c, 137700).
+chromosome(yal007c, chrI).
+is_next_to(yal007c, yal008w).
+class(yal007c, go:0030134).
+class(yal007c, go:0006888).
+class(yal007c, go:0005554).
+
+location(yal005c, 139505).
+chromosome(yal005c, chrI).
+is_next_to(yal005c, yal007c).
+class(yal005c, go:0006457).
+class(yal005c, go:0000060).
+class(yal005c, go:0000329).
+class(yal005c, go:0016887).
+class(yal005c, go:0051082).
+class(yal005c, go:0043037).
+class(yal005c, go:0009277).
+class(yal005c, go:0006626).
+class(yal005c, go:0006616).
+class(yal005c, go:0005832).
+class(yal005c, go:0005737).
+class(yal005c, go:0005634).
+
+location(yal004w, 140762).
+chromosome(yal004w, chrI).
+is_next_to(yal004w, yal005c).
+class(yal004w, go:0008372).
+class(yal004w, go:0005554).
+class(yal004w, go:0000004).
+
+location(yal003w, 142176).
+chromosome(yal003w, chrI).
+is_next_to(yal003w, yal004w).
+class(yal003w, go:0008372).
+
+location(yal002w, 143709).
+chromosome(yal002w, chrI).
+is_next_to(yal002w, yal003w).
+class(yal002w, go:0045324).
+class(yal002w, go:0005624).
+class(yal002w, go:0005554).
+
+location(yal001c, 147596).
+chromosome(yal001c, chrI).
+is_next_to(yal001c, yal002w).
+class(yal001c, go:0006384).
+class(yal001c, go:0005739).
+class(yal001c, go:0003709).
+class(yal001c, go:0000127).
+
+location(yar002w, 152259).
+chromosome(yar002w, chrI).
+is_next_to(yar002w, yal001c).
+class(yar002w, go:0000059).
+class(yar002w, go:0017056).
+class(yar002w, go:0006913).
+class(yar002w, go:0005643).
+class(yar002w, go:0000723).
+
+location(yar002c-a, 154067).
+chromosome(yar002c-a, chrI).
+is_next_to(yar002c-a, yar002w).
+class(yar002c-a, go:0030134).
+class(yar002c-a, go:0005739).
+class(yar002c-a, go:0006888).
+class(yar002c-a, go:0005554).
+
+location(yar003w, 155007).
+chromosome(yar003w, chrI).
+is_next_to(yar003w, yar002c-a).
+class(yar003w, go:0048188).
+class(yar003w, go:0042800).
+class(yar003w, go:0016571).
+class(yar003w, go:0006355).
+class(yar003w, go:0006348).
+class(yar003w, go:0000723).
+
+location(yar007c, 156756).
+chromosome(yar007c, chrI).
+is_next_to(yar007c, yar003w).
+class(yar007c, go:0006310).
+class(yar007c, go:0006302).
+class(yar007c, go:0006301).
+class(yar007c, go:0006289).
+class(yar007c, go:0003697).
+class(yar007c, go:0003684).
+class(yar007c, go:0006271).
+class(yar007c, go:0006269).
+class(yar007c, go:0006268).
+class(yar007c, go:0005737).
+class(yar007c, go:0005662).
+class(yar007c, go:0005634).
+class(yar007c, go:0000781).
+
+location(yar008w, 158967).
+chromosome(yar008w, chrI).
+is_next_to(yar008w, yar007c).
+class(yar008w, go:0006388).
+class(yar008w, go:0005741).
+class(yar008w, go:0005637).
+class(yar008w, go:0000214).
+class(yar008w, go:0000213).
+
+location(yar014c, 166743).
+chromosome(yar014c, chrI).
+is_next_to(yar014c, yar008w).
+class(yar014c, go:0008599).
+class(yar014c, go:0007010).
+class(yar014c, go:0006355).
+class(yar014c, go:0005935).
+class(yar014c, go:0005934).
+class(yar014c, go:0000903).
+class(yar014c, go:0000131).
+
+location(yar015w, 169370).
+chromosome(yar015w, chrI).
+is_next_to(yar015w, yar014c).
+class(yar015w, go:0006189).
+class(yar015w, go:0006164).
+class(yar015w, go:0006144).
+class(yar015w, go:0005737).
+class(yar015w, go:0005634).
+class(yar015w, go:0004639).
+
+location(yar018c, 170391).
+chromosome(yar018c, chrI).
+is_next_to(yar018c, yar015w).
+class(yar018c, go:0008372).
+class(yar018c, go:0007059).
+class(yar018c, go:0004672).
+
+location(yar019c, 172209).
+chromosome(yar019c, chrI).
+is_next_to(yar019c, yar018c).
+class(yar019c, go:0007096).
+class(yar019c, go:0006468).
+class(yar019c, go:0005935).
+class(yar019c, go:0005816).
+class(yar019c, go:0004672).
+class(yar019c, go:0000910).
+
+location(yar019w-a, 174996).
+chromosome(yar019w-a, chrI).
+is_next_to(yar019w-a, yar019c).
+class(yar019w-a, go:0008372).
+class(yar019w-a, go:0005554).
+class(yar019w-a, go:0000004).
+
+location(yar020c, 176854).
+chromosome(yar020c, chrI).
+is_next_to(yar020c, yar019w-a).
+class(yar020c, go:0008372).
+class(yar020c, go:0005554).
+class(yar020c, go:0000004).
+
+location(yar023c, 179279).
+chromosome(yar023c, chrI).
+is_next_to(yar023c, yar020c).
+class(yar023c, go:0008372).
+class(yar023c, go:0005554).
+class(yar023c, go:0000004).
+
+location(yar027w, 183764).
+chromosome(yar027w, chrI).
+is_next_to(yar027w, yar023c).
+class(yar027w, go:0005635).
+class(yar027w, go:0005554).
+class(yar027w, go:0000004).
+
+location(yar028w, 184886).
+chromosome(yar028w, chrI).
+is_next_to(yar028w, yar027w).
+class(yar028w, go:0008372).
+class(yar028w, go:0005554).
+class(yar028w, go:0000004).
+
+location(yar029w, 186315).
+chromosome(yar029w, chrI).
+is_next_to(yar029w, yar028w).
+class(yar029w, go:0005737).
+class(yar029w, go:0005554).
+class(yar029w, go:0000004).
+
+location(yar030c, 186506).
+chromosome(yar030c, chrI).
+is_next_to(yar030c, yar029w).
+class(yar030c, go:0008372).
+class(yar030c, go:0005554).
+class(yar030c, go:0000004).
+
+location(yar031w, 186830).
+chromosome(yar031w, chrI).
+is_next_to(yar031w, yar030c).
+class(yar031w, go:0016050).
+class(yar031w, go:0016021).
+class(yar031w, go:0005886).
+class(yar031w, go:0005783).
+class(yar031w, go:0005554).
+
+location(yar033w, 188101).
+chromosome(yar033w, chrI).
+is_next_to(yar033w, yar031w).
+class(yar033w, go:0016050).
+class(yar033w, go:0016021).
+class(yar033w, go:0005794).
+class(yar033w, go:0005783).
+class(yar033w, go:0005515).
+
+location(yar035w, 190187).
+chromosome(yar035w, chrI).
+is_next_to(yar035w, yar033w).
+class(yar035w, go:0009437).
+class(yar035w, go:0006066).
+class(yar035w, go:0005739).
+class(yar035w, go:0004092).
+
+location(yar035c-a, 192331).
+chromosome(yar035c-a, chrI).
+is_next_to(yar035c-a, yar035w).
+class(yar035c-a, go:0008372).
+class(yar035c-a, go:0005554).
+class(yar035c-a, go:0000004).
+
+location(yar042w, 192613).
+chromosome(yar042w, chrI).
+is_next_to(yar042w, yar035c-a).
+class(yar042w, go:0006694).
+class(yar042w, go:0005783).
+class(yar042w, go:0005769).
+class(yar042w, go:0005545).
+class(yar042w, go:0000138).
+
+location(yar047c, 201460).
+chromosome(yar047c, chrI).
+is_next_to(yar047c, yar042w).
+class(yar047c, go:0008372).
+class(yar047c, go:0005554).
+class(yar047c, go:0000004).
+
+location(yar050w, 203394).
+chromosome(yar050w, chrI).
+is_next_to(yar050w, yar047c).
+class(yar050w, go:0009277).
+class(yar050w, go:0005537).
+class(yar050w, go:0000501).
+
+location(yar053w, 208358).
+chromosome(yar053w, chrI).
+is_next_to(yar053w, yar050w).
+class(yar053w, go:0008372).
+class(yar053w, go:0005554).
+class(yar053w, go:0000004).
+
+location(yar060c, 217148).
+chromosome(yar060c, chrI).
+is_next_to(yar060c, yar053w).
+class(yar060c, go:0008372).
+class(yar060c, go:0005554).
+class(yar060c, go:0000004).
+
+location(yar064w, 220189).
+chromosome(yar064w, chrI).
+is_next_to(yar064w, yar060c).
+class(yar064w, go:0008372).
+class(yar064w, go:0005554).
+class(yar064w, go:0000004).
+
+location(yar066w, 221040).
+chromosome(yar066w, chrI).
+is_next_to(yar066w, yar064w).
+class(yar066w, go:0008372).
+class(yar066w, go:0005554).
+class(yar066w, go:0000004).
+
+location(yar068w, 222397).
+chromosome(yar068w, chrI).
+is_next_to(yar068w, yar066w).
+class(yar068w, go:0008372).
+class(yar068w, go:0005554).
+class(yar068w, go:0000004).
+
+location(yar069c, 224002).
+chromosome(yar069c, chrI).
+is_next_to(yar069c, yar068w).
+class(yar069c, go:0008372).
+class(yar069c, go:0005554).
+class(yar069c, go:0000004).
+
+location(yar070c, 224554).
+chromosome(yar070c, chrI).
+is_next_to(yar070c, yar069c).
+class(yar070c, go:0008372).
+class(yar070c, go:0005554).
+class(yar070c, go:0000004).
+
+location(yar071w, 225451).
+chromosome(yar071w, chrI).
+is_next_to(yar071w, yar070c).
+class(yar071w, go:0006796).
+class(yar071w, go:0005576).
+class(yar071w, go:0003993).
+
+location(yar073w, 227733).
+chromosome(yar073w, chrI).
+is_next_to(yar073w, yar071w).
+class(yar073w, go:0008372).
+class(yar073w, go:0005554).
+class(yar073w, go:0003938).
+class(yar073w, go:0000004).
+
+location(yar075w, 228835).
+chromosome(yar075w, chrI).
+is_next_to(yar075w, yar073w).
+class(yar075w, go:0008372).
+class(yar075w, go:0005554).
+class(yar075w, go:0000004).
+
+
